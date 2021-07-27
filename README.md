@@ -135,7 +135,7 @@ See the [open issues](https://github.com/GroLensInc/metrc_selenium/issues) for a
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -155,7 +155,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Michael Olie - mike@grolens.com
 
-Jarred Taylor
+Jarred Taylor - jarrede20@gmail.com
 
 Project Link: [https://github.com/MikeEmpire/elite-stock-screener](https://github.com/MikeEmpire/elite-stock-screener)
 
