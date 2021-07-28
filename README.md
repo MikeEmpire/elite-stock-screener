@@ -131,6 +131,14 @@ python YahooStockScreener.py
 
 See the [open issues](https://github.com/GroLensInc/metrc_selenium/issues) for a list of proposed features (and known issues).
 
+Featured Profiles for:
+  - Swing Traders
+  - Long Term Growth Investors
+  - Dividend Focused Investors
+  - Options Traders
+
+Crypto Trading and Investing
+
 <!-- CONTRIBUTING -->
 
 ## Contributing
