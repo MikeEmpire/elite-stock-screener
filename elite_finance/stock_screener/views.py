@@ -24,5 +24,4 @@ def index(request):
     for ticker in tickers:
         historical_datas[ticker] = get_data(ticker=ticker, start_date=last_week,
                                             end_date=today, index_as_date=True, interval="1d")
-    historical_datas[]
     return HttpResponse("Success!")
