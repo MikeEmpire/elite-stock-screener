@@ -72,6 +72,7 @@ More info coming soon!
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 - [Pandas](https://pandas.pydata.org/)
 - [YahooAPI](https://algotrading101.com/learn/yahoo-finance-api-guide/)
+- [Django](https://www.djangoproject.com/)
 
 <!-- GETTING STARTED -->
 
